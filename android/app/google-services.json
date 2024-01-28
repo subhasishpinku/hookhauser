@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "584483540769",
+    "project_id": "book-my-smoke-3a08a",
+    "storage_bucket": "book-my-smoke-3a08a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584483540769:android:27b91440d8925144147860",
+        "android_client_info": {
+          "package_name": "com.example.hookah_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584483540769-go4mgtam4eei3jtbarhcs8bcv07qc1je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hookah_user",
+            "certificate_hash": "5da1a0ce19b09e287ea6af620d7c3659cb4f09fa"
+          }
+        },
+        {
+          "client_id": "584483540769-52i45sk8705v63q131imt8l55j1fs9l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOKxBq4DzUWLKf1VMQGlnmtHM0VNPY_ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584483540769-52i45sk8705v63q131imt8l55j1fs9l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
